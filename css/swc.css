@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 /* Headings */
 h1, h2, h3, h4, h5, h6  {
     color: rgb(03,03,03);
@@ -58,7 +60,7 @@ blockquote.testimonial cite {
 body {
     background: #BEC3C6;
     margin: 20px 0;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: 'Nanum Gothic', "Open Sans", Helvetica, Arial, sans-serif;
     color: rgb(03, 03, 03);
 }
 
@@ -120,7 +122,7 @@ div.box {
 div.content div h3 {
     border-bottom: 1px solid #CCCCCC;
     display: block;
-    font-family: Verdana,"BitStream vera Sans";
+    font-family: 'Nanum Gothic', Verdana,"BitStream vera Sans";
     margin-top: 10px;
     padding: 0 5px 3px;
 }
